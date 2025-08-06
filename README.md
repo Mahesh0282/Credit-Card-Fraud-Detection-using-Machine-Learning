@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection-using-Machine-Learning
+
 # 🔐 Credit Card Fraud Detection using Machine Learning
 
 A machine learning-based system designed to detect fraudulent transactions using advanced classification models. This project evaluates multiple ML algorithms and identifies the best-performing model (XGBoost) based on key performance metrics like F1-Score, Recall, AUC-ROC, and more.
