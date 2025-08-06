@@ -88,6 +88,11 @@ This project aims to build a robust Intrusion Detection System (IDS) to detect f
 
 ## 📁 Dataset
 
+- 📄 **File**: `transactions.csv`  
+- 🔢 ~21,000 Modbus transactions  
+- 🧾 Columns: `amount`, `oldbalanceOrg`, `newbalanceOrig`, `type`, etc.  
+- 🏷️ Target: `isFraud` (0 = normal, 1 = fraud)
+
 The dataset used in this project is a simulated Modbus transaction log stored as `transactions.csv`. It includes both normal and fraud-classified transactions.
 
 ---
